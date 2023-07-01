@@ -105,7 +105,8 @@ As you can see above, there are a few SLA's with various levels of priority now 
 </p>
 </p>
 <h2>Configure Help Topics</h2>
-Lastly, we are going to configure some common help topics for our system. You can also reach this page by selecting Admin Panel -> Manage -> Help Topics
+Lastly, we are going to configure some common help topics for our system. You can also reach this page 
+by selecting Admin Panel -> Manage -> Help Topics
 </p>
 </p>
 <img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/60073db5-e32a-449a-9e4c-85aca8f83ebf"/>

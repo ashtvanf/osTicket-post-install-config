@@ -31,7 +31,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <p>
 Our first step will be to configure various Roles, Departments, and Teams. To begin, look at the top right of the interface and select Admin Panel -> Agents -> Roles. From this step we shall add a new role and name it "Supreme Administrator," and check all available boxes for this role's creation.
-</p>
+<img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/877551b1-78b6-4233-a629-3a965fe0999c"/>
+
 <br />
 
 <p>

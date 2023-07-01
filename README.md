@@ -88,3 +88,10 @@ To set up Users we are going to enter by selecting Agent Panel -> Users -> Add N
 <img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/a89ea96a-73a6-4cb6-91c3-46704b20f3b7"/>
 </p>
 </p>
+<h2>Configuring SLA</h2>
+In this step we are going to set up a few different Service Level Agreements with various priority levels. 
+</p>
+</p>
+<img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/8e275ae8-315e-4c4c-8d82-c499f0b70cbd"/>
+</p>
+</p>

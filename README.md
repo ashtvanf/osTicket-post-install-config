@@ -57,7 +57,6 @@ select Admin Panel -> Agents -> Teams. From here, we are going to create both a 
 </p>
 To allow anybody to create tickets, you must select Admin Panel -> Settings -> User Settings to get to the menu shown above. Ensure that the registration required box is not selected as shown above.
 </p>
-<br />
 <h2>Configuring Agents (Employees)</h2>
 </p>
 </p>

@@ -118,3 +118,4 @@ by selecting Admin Panel -> Manage -> Help Topics
 As shown above, I have set up some various help topics. 
 </p>
 </p>
+<h2>Finished Configuration settings.</h2>

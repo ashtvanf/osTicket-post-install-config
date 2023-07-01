@@ -93,5 +93,13 @@ In this step we are going to set up a few different Service Level Agreements wit
 </p>
 </p>
 <img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/8e275ae8-315e-4c4c-8d82-c499f0b70cbd"/>
+<img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/c9393594-a6d4-4b23-9149-eee5e4259dda"/>
+<img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/3eea85bc-d384-42d7-b383-e344ed7851b8"/>
+<img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/1583d357-ecb2-4b1d-a77d-58342ce01ff4"/>
+<img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/35c86cc0-e9fb-4aaf-a4e3-6f35eb4c4a33"/>
+<img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/a8f4a289-cf0e-4434-bcc7-4b995500593d"/>
+</p>
+</p>
+As you can see above, there are a few SLA's with various levels of priority now established.
 </p>
 </p>

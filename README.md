@@ -63,11 +63,26 @@ To allow anybody to create tickets, you must select Admin Panel -> Settings -> U
 </p>
 <img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/1d874011-d737-435e-8d64-8d2925ea3160"/>
 </p>
+</p>
 On this next step we will be adding some new agents to operate tickets. To add a new agent select, Admin Panel -> Agents -> Add New.
 </p>
 </p>
 <img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/1f5922e7-26a8-4895-ad15-e9d382c59d28"/>
 <img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/684a938d-9029-4e82-b46e-afb43265f988"/>
 </p>
-Be sure to set a username and set a password for your agents as shown above.
-
+</p>
+Be sure to set a username and set a password for your agents as shown above. Also be sure to enter the Access and Teams tab, and assign your agent's a Deptartment, Team, and access levels.
+</p>
+</p>
+<h2>Configuring Users (Customers)</h2>
+</p>
+</p>
+<img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/4beeae02-23c0-4233-9a33-5f521e2aebaf"/>
+</p>
+</p>
+To set up Users we are going to enter by selecting Agent Panel -> Users -> Add New. In this example below you can see I have added Karen and Ken, as users.
+<img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/05e22a63-0cb9-4705-87f9-b78909cb98e6"/>
+<img src="
+<img src="
+</p>
+</p>

@@ -39,7 +39,8 @@ Next select Departments -> Add a New Department. Name the Department "System Adm
 
 <img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/e8bb353e-9acf-48ea-aaa8-b989abf55230"/>
 <br />
-Now that we have created a Department, we are going to create a new team. At the top of the available menu, select Admin Panel -> Agents -> Teams. From here, we are going to create both a Support I and Support II team.
+Now that we have created a Department, we are going to create a new team. At the top of the available menu, 
+select Admin Panel -> Agents -> Teams. From here, we are going to create both a Support I and Support II team.
 
 
 <img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/6deb2d47-e92a-476e-9d5e-67b1ff78a632"/>

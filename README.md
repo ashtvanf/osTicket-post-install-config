@@ -45,6 +45,8 @@ select Admin Panel -> Agents -> Teams. From here, we are going to create both a 
 </p>
 </p>
 <img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/6deb2d47-e92a-476e-9d5e-67b1ff78a632"/>
+<img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/68f708c1-ac2a-401e-b977-0e893dce3f0c"/>
+
 </p>
 </p>
 </p>

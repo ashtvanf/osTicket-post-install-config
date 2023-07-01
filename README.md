@@ -89,7 +89,8 @@ To set up Users we are going to enter by selecting Agent Panel -> Users -> Add N
 </p>
 </p>
 <h2>Configuring SLA</h2>
-In this step we are going to set up a few different Service Level Agreements with various priority levels. 
+In this step we are going to set up a few different Service Level Agreements with various priority levels. You can reach the necessary page by 
+selecting Admin Panel -> Manage -> SLA.
 </p>
 </p>
 <img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/8e275ae8-315e-4c4c-8d82-c499f0b70cbd"/>
@@ -101,5 +102,19 @@ In this step we are going to set up a few different Service Level Agreements wit
 </p>
 </p>
 As you can see above, there are a few SLA's with various levels of priority now established.
+</p>
+</p>
+<h2>Configure Help Topics</h2>
+Lastly, we are going to configure some common help topics for our system. You can also reach this page by selecting Admin Panel -> Manage -> Help Topics
+</p>
+</p>
+<img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/60073db5-e32a-449a-9e4c-85aca8f83ebf"/>
+<img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/b05726e5-2182-45c0-9962-bcf942fab340"/>
+<img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/4f99dc19-286f-4725-bd85-870b633295fc"/>
+<img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/19610ebb-dde6-4748-9969-26fec1e46cc3"/>
+<img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/6a3f8bbb-e919-4adc-9552-d4ac13d583bf"/>
+</p>
+</p>
+As shown above, I have set up some various help topics. 
 </p>
 </p>

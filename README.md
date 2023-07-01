@@ -28,8 +28,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Roles</h2>
 Our first step will be to configure various Roles, Departments, and Teams. To begin, look at the top right of the interface and select Admin Panel -> Agents -> Roles. From this step we shall add a new role and name it "Supreme Administrator," and check all available boxes for this role's creation.
-
-<p>
+</p>
+</p>
 <img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/9876671e-a245-4fc4-b335-431601ed23aa"/>
 <img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/877551b1-78b6-4233-a629-3a965fe0999c"/>
 </p>
@@ -46,7 +46,6 @@ select Admin Panel -> Agents -> Teams. From here, we are going to create both a 
 </p>
 <img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/6deb2d47-e92a-476e-9d5e-67b1ff78a632"/>
 <img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/68f708c1-ac2a-401e-b977-0e893dce3f0c"/>
-
 </p>
 </p>
 </p>
@@ -58,15 +57,12 @@ select Admin Panel -> Agents -> Teams. From here, we are going to create both a 
 </p>
 To allow anybody to create tickets, you must select Admin Panel -> Settings -> User Settings to get to the menu shown above. Ensure that the registration required box is not selected as shown above.
 </p>
-</p>
 <br />
 <h2>Configuring Agents (Employees)</h2>
 </p>
 </p>
 <img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/1d874011-d737-435e-8d64-8d2925ea3160"/>
 </p>
-</p>
 On this next step we will be adding some new agents to operate tickets. To add a new agent select, Admin Panel -> Agents -> Add New.
 </p>
 </p>
-

@@ -51,7 +51,7 @@ select Admin Panel -> Agents -> Teams. From here, we are going to create both a 
 </p>
 </p>
 <br />
-
+<h2>Allow anybody to create tickets</h2>
 <p>
 <img src=""/>
 </p>

@@ -27,10 +27,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src=""/>
+<img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/9876671e-a245-4fc4-b335-431601ed23aa"/>
 </p>
 <p>
-Our first step will be to configure various Roles, Departments, and Teams. To begin, look at the top right of the interface and select Admin Panel -> Agents -> Roles. From this step we shall add a new role and name it "Supreme Administrator," and check all available boxes for this role's creation. Next select Departments -> Add a New Department. Name the Department "System Admins" and click create dept. 
+Our first step will be to configure various Roles, Departments, and Teams. To begin, look at the top right of the interface and select Admin Panel -> Agents -> Roles. From this step we shall add a new role and name it "Supreme Administrator," and check all available boxes for this role's creation.
 </p>
 <br />
 
@@ -38,7 +38,7 @@ Our first step will be to configure various Roles, Departments, and Teams. To be
 <img src=""/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next select Departments -> Add a New Department. Name the Department "System Admins" and click create dept. 
 </p>
 <br />
 

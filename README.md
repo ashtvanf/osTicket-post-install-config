@@ -32,20 +32,21 @@ Our first step will be to configure various Roles, Departments, and Teams. To be
 <img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/9876671e-a245-4fc4-b335-431601ed23aa"/>
 </p>
 
-
+</p>
 <img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/877551b1-78b6-4233-a629-3a965fe0999c"/>
-
+</p>
+</p>
 Next select Departments -> Add a New Department. Name the Department "System Administrators" and click create dept. 
-
+</p>
 <img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/e8bb353e-9acf-48ea-aaa8-b989abf55230"/>
-<br />
+</p>
 Now that we have created a Department, we are going to create a new team. At the top of the available menu, 
 select Admin Panel -> Agents -> Teams. From here, we are going to create both a Support I and Support II team.
-
-
+</p>
+</p>
 <img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/6deb2d47-e92a-476e-9d5e-67b1ff78a632"/>
-
-
+</p>
+</p>
 </p>
 <br />
 

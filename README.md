@@ -66,3 +66,8 @@ To allow anybody to create tickets, you must select Admin Panel -> Settings -> U
 On this next step we will be adding some new agents to operate tickets. To add a new agent select, Admin Panel -> Agents -> Add New.
 </p>
 </p>
+<img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/1f5922e7-26a8-4895-ad15-e9d382c59d28"/>
+<img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/684a938d-9029-4e82-b46e-afb43265f988"/>
+</p>
+Be sure to set a username and set a password for your agents as shown above.
+

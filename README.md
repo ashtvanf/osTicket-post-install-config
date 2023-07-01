@@ -55,12 +55,18 @@ select Admin Panel -> Agents -> Teams. From here, we are going to create both a 
 <p>
 <img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/a03291aa-5de4-401e-a153-0d21a1d62c0a"/>
 </p>
-<p>
+</p>
 To allow anybody to create tickets, you must select Admin Panel -> Settings -> User Settings to get to the menu shown above. Ensure that the registration required box is not selected as shown above.
+</p>
 </p>
 <br />
 <h2>Configuring Agents (Employees)</h2>
 </p>
+</p>
 <img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/1d874011-d737-435e-8d64-8d2925ea3160"/>
 </p>
+</p>
 On this next step we will be adding some new agents to operate tickets. To add a new agent select, Admin Panel -> Agents -> Add New.
+</p>
+</p>
+

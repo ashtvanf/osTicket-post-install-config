@@ -31,14 +31,20 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 
 Our first step will be to configure various Roles, Departments, and Teams. To begin, look at the top right of the interface and select Admin Panel -> Agents -> Roles. From this step we shall add a new role and name it "Supreme Administrator," and check all available boxes for this role's creation.
+
 <img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/877551b1-78b6-4233-a629-3a965fe0999c"/>
 
 <br />
 
-<p>
+Next select Departments -> Add a New Department. Name the Department "System Administrators" and click create dept. 
+
 <img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/e8bb353e-9acf-48ea-aaa8-b989abf55230"/>
 
-Next select Departments -> Add a New Department. Name the Department "System Admins" and click create dept. 
+Now that we have created a Department, we are going to create a new team. At the top of the available menu, select Admin Panel -> Agents -> Teams. From here, we are going to create both a Support I and Support II team.
+
+<img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/6deb2d47-e92a-476e-9d5e-67b1ff78a632"/>
+
+
 </p>
 <br />
 

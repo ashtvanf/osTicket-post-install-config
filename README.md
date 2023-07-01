@@ -24,7 +24,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure SLA
 - Configure Help Topics
 
-<h2>Configuration Steps</h2>
+<h2>Configuration Steps for Roles, Departments, And Teams.</h2>
 
 Our first step will be to configure various Roles, Departments, and Teams. To begin, look at the top right of the interface and select Admin Panel -> Agents -> Roles. From this step we shall add a new role and name it "Supreme Administrator," and check all available boxes for this role's creation.
 
@@ -53,9 +53,9 @@ select Admin Panel -> Agents -> Teams. From here, we are going to create both a 
 <br />
 <h2>Allow anybody to create tickets</h2>
 <p>
-<img src=""/>
+<img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/a03291aa-5de4-401e-a153-0d21a1d62c0a"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To allow anybody to create tickets, you must select Admin Panel -> Settings -> User Settings to get to the menu shown above. Ensure that the registration required box is not selected as shown above.
 </p>
 <br />

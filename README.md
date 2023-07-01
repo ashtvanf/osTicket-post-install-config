@@ -31,9 +31,6 @@ Our first step will be to configure various Roles, Departments, and Teams. To be
 
 <p>
 <img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/9876671e-a245-4fc4-b335-431601ed23aa"/>
-</p>
-
-</p>
 <img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/877551b1-78b6-4233-a629-3a965fe0999c"/>
 </p>
 </p>

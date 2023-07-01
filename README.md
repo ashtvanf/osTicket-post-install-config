@@ -81,8 +81,10 @@ Be sure to set a username and set a password for your agents as shown above. Als
 </p>
 </p>
 To set up Users we are going to enter by selecting Agent Panel -> Users -> Add New. In this example below you can see I have added Karen and Ken, as users.
+</p>
+</p>
 <img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/05e22a63-0cb9-4705-87f9-b78909cb98e6"/>
-<img src="
-<img src="
+<img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/555e62a4-189e-4780-a1c3-b275f447177d"/>
+<img src="https://github.com/ashtvanf/osTicket-post-install-config/assets/138221709/a89ea96a-73a6-4cb6-91c3-46704b20f3b7"/>
 </p>
 </p>
